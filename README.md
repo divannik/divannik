@@ -1,5 +1,8 @@
-## Hi there 👋
+<div id="header" align="center"> <img src="https://i.pinimg.com/736x/3a/38/13/3a381354b11429c97b2f6dce07d7ba82.jpg" width="300"/> </div>
 
+## Hi everyone, I'm a couch programmer. So, yes, I'm cool, yes, I'm great. 👋
+<br>
+<div id="header" align="center"> <img src="https://i.pinimg.com/736x/42/83/ff/4283ff41fa00fd4304001b4451c83544.jpg" width="800"/> </div> 
 <!--
 **divannik/divannik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
